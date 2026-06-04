@@ -30,9 +30,13 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Tools |
-|---|---|---|
-| [🎬 Netflix Data Analysis](https://github.com/swikarb69/Netflix-Data-Analysis) | EDA on Netflix's content library | Python, Pandas, Seaborn |
+| Project                                                                                                | Description                                                                                                     | Tech Stack                          |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 🏠 [House Price Predictor](https://github.com/swikarb69/house-price-predictor)                         | Deployed ML web application that predicts California house prices using Random Forest Regression and Streamlit. | Python, Scikit-Learn, Streamlit     |
+| 🌊 [California Housing Classification](https://github.com/swikarb69/california-housing-classification) | Machine learning classification model predicting ocean proximity categories for California housing districts.   | Python, Scikit-Learn, Pandas        |
+| 🎬 [Netflix Data Analysis](https://github.com/swikarb69/Netflix-Data-Analysis)                         | Exploratory data analysis of Netflix's content library with visual insights and trend analysis.                 | Python, Pandas, Matplotlib, Seaborn |
+| 🤖 Coming Soon                                                                                         | AI-powered PDF Chatbot using RAG and LLMs.                                                                      | LangChain, Gemini/OpenAI, Streamlit |
+
 
 ---
 

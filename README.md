@@ -35,7 +35,7 @@
 | 🏠 [House Price Predictor](https://house-price-predictor-swikarb69.streamlit.app/)                         | Deployed ML web application that predicts California house prices using Random Forest Regression and Streamlit. | Python, Scikit-Learn, Streamlit     |
 | 🌊 [California Housing Classification](https://github.com/swikarb69/california-housing-classification) | Machine learning classification model predicting ocean proximity categories for California housing districts.   | Python, Scikit-Learn, Pandas        |
 | 🎬 [Netflix Data Analysis](https://github.com/swikarb69/Netflix-Data-Analysis)                         | Exploratory data analysis of Netflix's content library with visual insights and trend analysis.                 | Python, Pandas, Matplotlib, Seaborn |
-| 🧠 [DocMind – PDF RAG Chatbot](https://swikarb69-pdf-chatbot.streamlit.app/)                                                                                        | AI-powered PDF Chatbot using RAG and LLMs.                                                                      | LangChain, Gemini/OpenAI, Streamlit |
+| ⭐ 🧠 [DocMind – PDF RAG Chatbot](https://swikarb69-pdf-chatbot.streamlit.app/)                                                                                        | Multi-PDF conversational AI system built using Gemini 2.5 Flash, FAISS vector search, semantic retrieval, persistent knowledge storage, source citation, and Retrieval-Augmented Generation (RAG).                                                                      | Python, Gemini, FAISS, RAG, Streamlit |
 
 
 ---

@@ -35,21 +35,23 @@ Aspiring Data Scientist • Machine Learning Enthusiast • AI Builder
 
 <p align="left">
 <a href="https://www.linkedin.com/in/swikar-bhattarai-11178b240">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&to=bhattaraimail2me@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://github.com/swikarb69">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 # 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,github,vscode)](https://skillicons.dev)
 
 ### Languages
 
@@ -162,8 +164,3 @@ https://swikarb69-pdf-chatbot.streamlit.app/
 > Every dataset has a story — I'm here to find it.
 
 ⭐ If you like my projects, consider following my GitHub journey!
-
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,github,vscode)](https://skillicons.dev)

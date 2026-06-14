@@ -92,22 +92,24 @@ Aspiring Data Scientist • Machine Learning Enthusiast • AI Builder
 
 ## 🏆 Highlight Project
 
-### 🧠 DocMind – PDF RAG Chatbot
+## 🧠 DocMind – PDF RAG Chatbot
 
-⭐ Features:
+Multi-PDF conversational AI powered by Gemini 2.5 Flash, semantic search, FAISS vector retrieval, persistent knowledge storage, source citations, and Retrieval-Augmented Generation (RAG).
 
-- Multi-PDF Support
-- Gemini 2.5 Flash
-- Semantic Search
-- FAISS Vector Database
-- Source Citations
-- Persistent Vector Storage
-- Chat History
-- Retrieval-Augmented Generation (RAG)
+### ✨ Features
 
-🔗 Live Demo:
+- 📄 Multi-PDF Support
+- 🔍 Semantic Search
+- 🧠 Gemini 2.5 Flash
+- ⚡ FAISS Vector Database
+- 📚 Source Citations
+- 💾 Persistent Index Storage
+- 💬 Chat History
+- 🚀 RAG Pipeline
 
-https://swikarb69-pdf-chatbot.streamlit.app/
+### 🚀 Live Demo
+
+[![Launch DocMind](https://img.shields.io/badge/Open-DocMind_Chatbot-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://swikarb69-pdf-chatbot.streamlit.app/)
 
 ---
 

@@ -162,3 +162,8 @@ https://swikarb69-pdf-chatbot.streamlit.app/
 > Every dataset has a story — I'm here to find it.
 
 ⭐ If you like my projects, consider following my GitHub journey!
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,github,vscode)](https://skillicons.dev)

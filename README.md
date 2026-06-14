@@ -49,7 +49,7 @@ Aspiring Data Scientist • Machine Learning Enthusiast • AI Builder
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,github,vscode)](https://skillicons.dev)
 
@@ -76,17 +76,20 @@ Aspiring Data Scientist • Machine Learning Enthusiast • AI Builder
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-System-green?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🏠 House Price Predictor | California House Price Prediction using Random Forest Regression |
-| 🌊 California Housing Classification | Classification model predicting ocean proximity categories |
-| 🎬 Netflix Data Analysis | Exploratory Data Analysis and visualization of Netflix content |
 | 🧠 DocMind – PDF RAG Chatbot | Multi-PDF conversational AI using Gemini 2.5 Flash and FAISS |
+| 👁️ VisionAI – Image Analyzer | Flask web app using YOLOv8 + MobileNetV2 + ResNet-50 ensemble |
+| 🏠 House Price Predictor | California House Price Prediction using Random Forest Regression (R² ~0.77) |
+| 📈 Sales Forecasting | XGBoost-powered forecasting pipeline trained on 3M+ rows of retail data |
+| 🌊 California Housing Classification | Classification model predicting ocean proximity categories (97.4% accuracy) |
+| 🎬 Netflix Data Analysis | Exploratory Data Analysis and visualization of Netflix content |
 
 ---
 
@@ -113,38 +116,26 @@ Multi-PDF conversational AI powered by Gemini 2.5 Flash, semantic search, FAISS 
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=swikarb69&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarb69&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swikarb69&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarb69&layout=compact&theme=tokyonight"/>
 </p>
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swikarb69&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=swikarb69&theme=tokyonight"/>
 </p>
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=swikarb69&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swikarb69&theme=tokyo-night"/>
@@ -152,7 +143,7 @@ Multi-PDF conversational AI powered by Gemini 2.5 Flash, semantic search, FAISS 
 
 ---
 
-# 🎯 2025 Goals
+## 🎯 2025 Goals
 
 - ✅ Build 4+ Data Science Projects
 - ✅ Deploy ML Applications

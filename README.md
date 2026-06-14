@@ -125,21 +125,24 @@ Multi-PDF conversational AI powered by Gemini 2.5 Flash, semantic search, FAISS 
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swikarb69&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarb69&layout=compact&theme=tokyonight"/>
+</p>
+
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=swikarb69&theme=tokyonight"/>
 </p>
 
----
-
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=swikarb69&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=swikarb69&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
-
----
 
 # 📈 Contribution Graph
 

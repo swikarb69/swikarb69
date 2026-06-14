@@ -85,7 +85,6 @@ Aspiring Data Scientist • Machine Learning Enthusiast • AI Builder
 | Project | Description |
 |----------|-------------|
 | 🧠 DocMind – PDF RAG Chatbot | Multi-PDF conversational AI using Gemini 2.5 Flash and FAISS |
-| 👁️ VisionAI – Image Analyzer | Flask web app using YOLOv8 + MobileNetV2 + ResNet-50 ensemble |
 | 🏠 House Price Predictor | California House Price Prediction using Random Forest Regression (R² ~0.77) |
 | 📈 Sales Forecasting | XGBoost-powered forecasting pipeline trained on 3M+ rows of retail data |
 | 🌊 California Housing Classification | Classification model predicting ocean proximity categories (97.4% accuracy) |

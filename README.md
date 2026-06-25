@@ -15,11 +15,11 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║    ✦  IDENTITY  →  Swikar Bhattarai  //  @swikarb69             ║
-║    ✦  ORIGIN    →  Nepal 🇳🇵                                     ║
-║    ✦  MISSION   →  Transform data into decisions                 ║
-║    ✦  WEAPONS   →  Python · ML · Deep Learning · LLMs · RAG     ║
-║    ✦  STATUS    →  [ BUILDING ██████████████████████ 100% ]      ║
+║    ✦  IDENTITY  →  Swikar Bhattarai  //  @swikarb69               ║
+║    ✦  ORIGIN    →  Nepal 🇳🇵                                       ║
+║    ✦  MISSION   →  Transform data into decisions                  ║
+║    ✦  WEAPONS   →  Python · ML · Deep Learning · LLMs · RAG       ║
+║    ✦  STATUS    →  [ BUILDING ██████████████████████ 100% ]       ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
@@ -155,7 +155,7 @@ swikar = {
 > California House Price Prediction using **Random Forest Regression** — achieved **R² ~0.77**.
 > Full pipeline: EDA → feature engineering → model training → evaluation.
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/house-price-predictor)
 
 ---
 
@@ -172,7 +172,7 @@ swikar = {
 
 > Classification model predicting ocean proximity categories with **97.4% accuracy**.
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/california-housing-classification)
 
 ---
 
@@ -187,7 +187,7 @@ swikar = {
 | Churn Recall | 0.45 | **0.62** |
 | Decision Threshold | 0.50 | ~0.35 |
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-Churn_Prediction-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-Churn_Prediction-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/Customer-Churn-Prediction)
 
 ---
 
@@ -204,7 +204,7 @@ swikar = {
 
 > Deep-dive **Exploratory Data Analysis** & visualization of Netflix's global content catalog.
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/Netflix-Data-Analysis)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
 
@@ -286,17 +286,17 @@ jobs:
 
 ```
  ┌──────────────────────────────────────────────────────────────────┐
- │  MISSION LOG // 2025                                            │
+ │  MISSION LOG // 2025                                             │
  ├──────────────────────────────────────────────────────────────────┤
  │                                                                  │
  │  [✅]  Build 4+ real-world Data Science projects                 │
  │  [✅]  Deploy ML applications to production                      │
  │  [✅]  Master Deep Learning fundamentals                         │
- │  [✅]  Build a full RAG application (DocMind ✦)                  │
- │  [🔄]  Learn MLOps & model monitoring                            │
- │  [🔄]  Build end-to-end AI systems                               │
- │  [🔄]  Secure a Data Science internship                          │
- │  [🔭]  Dive deeper into Deep Learning research                   │
+ │  [✅]  Build a full RAG application (DocMind ✦)                 │
+ │  [🔄]  Learn MLOps & model monitoring                           │
+ │  [🔄]  Build end-to-end AI systems                              │
+ │  [🔄]  Secure a Data Science internship                         │
+ │  [🔭]  Dive deeper into Deep Learning research                  │
  │                                                                  │
  └──────────────────────────────────────────────────────────────────┘
 ```
@@ -343,7 +343,7 @@ swikar-bhattarai/
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║                  ✦  UPLINKS  //  ACTIVE  ✦                      ║
+║                  ✦  UPLINKS  //  ACTIVE  ✦                       ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
 ║   🌐  GitHub     →  github.com/swikarb69                         ║

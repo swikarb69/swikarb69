@@ -1,161 +1,300 @@
-<h1 align="center">Hi 👋, I'm Swikar Bhattarai</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Data Scientist • Machine Learning Enthusiast • AI Builder
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&height=80&lines=Hey%2C+I%27m+Swikar+Bhattarai+%F0%9F%8C%8C;Data+Scientist+in+the+Making)](https://git.io/typing-svg)
 
-<p align="center">
-🇳🇵 Nepal • Python • Machine Learning • Deep Learning • Generative AI
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Generative+AI;RAG+Pipelines+%E2%80%A2+LLM+Applications+%E2%80%A2+MLOps;%F0%9F%87%B3%F0%9F%87%B5+Nepal+%E2%80%94+Turning+raw+data+into+real+intelligence)](https://git.io/typing-svg)
 
----
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=SWIKAR%20BHATTARAI&fontAlign=50&fontAlignY=55&color=gradient&customColorList=12&fontSize=62&fontColor=A78BFA&stroke=818CF8&strokeWidth=2&animation=twinkling" width="100%"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=swikarb69&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎯 Aspiring Data Scientist from Nepal 🇳🇵
-- 📊 Passionate about transforming raw data into meaningful insights
-- 🤖 Exploring Machine Learning, Deep Learning & Generative AI
-- 🧠 Building AI-powered applications with RAG and LLMs
-- 📈 Growing a portfolio of real-world Data Science projects
-- 🌱 Currently learning:
-  - Deep Learning
-  - Neural Networks
-  - LLM Applications
-  - Retrieval-Augmented Generation (RAG)
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║    ✦  IDENTITY  →  Swikar Bhattarai  //  @swikarb69             ║
+║    ✦  ORIGIN    →  Nepal 🇳🇵                                     ║
+║    ✦  MISSION   →  Transform data into decisions                 ║
+║    ✦  WEAPONS   →  Python · ML · Deep Learning · LLMs · RAG     ║
+║    ✦  STATUS    →  [ BUILDING ██████████████████████ 100% ]      ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
----
+> *"The universe speaks in patterns. I speak Python."*
 
-## 🌐 Connect With Me
+</div>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/swikar-bhattarai-11178b240">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&to=bhattaraimail2me@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swikar_Bhattarai-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D1A)](https://www.linkedin.com/in/swikar-bhattarai-11178b240)
+[![GitHub](https://img.shields.io/badge/GitHub-swikarb69-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+[![Email](https://img.shields.io/badge/Email-bhattaraimail2me-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)](mailto:bhattaraimail2me@gmail.com)
+[![DocMind](https://img.shields.io/badge/Live_App-DocMind_Chatbot-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://swikarb69-pdf-chatbot.streamlit.app/)
 
-<a href="https://github.com/swikarb69">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=swikarb69&style=for-the-badge&color=818CF8&label=STARGAZERS)
 
----
+</div>
 
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn,github,vscode)](https://skillicons.dev)
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-
-### Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-
-### AI & LLMs
-
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-System-green?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
 
 ---
 
-## 📂 Featured Projects
+## `✦ whoami`
 
-| Project | Description |
-|----------|-------------|
-| 🧠 DocMind – PDF RAG Chatbot | Multi-PDF conversational AI using Gemini 2.5 Flash and FAISS |
-| 🏠 House Price Predictor | California House Price Prediction using Random Forest Regression (R² ~0.77) |
-| 📈 Sales Forecasting | XGBoost-powered forecasting pipeline trained on 3M+ rows of retail data |
-| 🌊 California Housing Classification | Classification model predicting ocean proximity categories (97.4% accuracy) |
-| 🎬 Netflix Data Analysis | Exploratory Data Analysis and visualization of Netflix content |
+```python
+swikar = {
+    "name"       : "Swikar Bhattarai",
+    "origin"     : "Nepal 🇳🇵",
+    "role"       : "Aspiring Data Scientist & AI Builder",
+    "focus"      : ["Deep Learning", "Generative AI", "RAG", "MLOps"],
+    "currently"  : "Building end-to-end AI systems & chasing AIR internships",
+    "superpower" : "Finding signal in the noise",
+    "motto"      : "The universe speaks in patterns. I speak Python.",
+}
+```
 
----
-
-## 🏆 Highlight Project
-
-## 🧠 DocMind – PDF RAG Chatbot
-
-Multi-PDF conversational AI powered by Gemini 2.5 Flash, semantic search, FAISS vector retrieval, persistent knowledge storage, source citations, and Retrieval-Augmented Generation (RAG).
-
-### ✨ Features
-
-- 📄 Multi-PDF Support
-- 🔍 Semantic Search
-- 🧠 Gemini 2.5 Flash
-- ⚡ FAISS Vector Database
-- 📚 Source Citations
-- 💾 Persistent Index Storage
-- 💬 Chat History
-- 🚀 RAG Pipeline
-
-### 🚀 Live Demo
-
-[![Launch DocMind](https://img.shields.io/badge/Open-DocMind_Chatbot-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://swikarb69-pdf-chatbot.streamlit.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
 
 ---
 
-## 📊 GitHub Stats
+## `✦ ls /abilities`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swikarb69&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarb69&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-## 🔥 GitHub Streak
+| 🧪 `DATA SCIENCE` | 🤖 `ML & DEEP LEARNING` | 🌌 `AI & LLMs` |
+|:---:|:---:|:---:|
+| Pandas · NumPy · Matplotlib | Scikit-Learn · TensorFlow · Keras | Gemini · RAG · FAISS |
+| Seaborn · EDA · Visualization | Neural Networks · Regression | LangChain · Streamlit |
+| Feature Engineering · Stats | XGBoost · Random Forest | LLM Pipelines · Agents |
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=swikarb69&theme=tokyonight"/>
-</p>
+| ⚙️ `MLOPS` | 🛠️ `TOOLS` | 📐 `FUNDAMENTALS` |
+|:---:|:---:|:---:|
+| Model Deployment · Flask | Python · Git · GitHub | Linear Algebra · Stats |
+| End-to-End Pipelines | VS Code · Colab · Jupyter | Probability · Calculus |
+| Monitoring · Versioning | Streamlit · APIs | DSA · Problem Solving |
 
-## 🏆 GitHub Trophies
+</div>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=swikarb69&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swikarb69&theme=tokyo-night"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
 
 ---
 
-## 🎯 2025 Goals
+## `✦ cat /stack/installed.log`
 
-- ✅ Build 4+ Data Science Projects
-- ✅ Deploy ML Applications
-- ✅ Learn Deep Learning Fundamentals
-- ✅ Build a RAG Application
-- 🔄 Learn MLOps
-- 🔄 Build End-to-End AI Systems
-- 🔄 Secure a Data Science Internship
+<div align="center">
+
+**⟦ LANGUAGES ⟧**
+
+![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white)
+
+**⟦ DATA SCIENCE ⟧**
+
+![Pandas](https://img.shields.io/badge/Pandas-818CF8?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-C084FC?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-A78BFA?style=for-the-badge&logoColor=white)
+
+**⟦ MACHINE LEARNING ⟧**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-818CF8?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-C084FC?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-7C3AED?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-A78BFA?style=for-the-badge&logoColor=white)
+
+**⟦ AI & LLMs ⟧**
+
+![Gemini](https://img.shields.io/badge/Gemini_AI-818CF8?style=for-the-badge&logo=google&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-C084FC?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-7C3AED?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-A78BFA?style=for-the-badge&logo=chainlink&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-818CF8?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-C084FC?style=for-the-badge&logo=flask&logoColor=white)
+
+**⟦ TOOLS ⟧**
+
+![Git](https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-818CF8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-C084FC?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
 
 ---
 
-## ⚡ Fun Fact
+## `✦ ls ~/projects --highlight`
 
-> Every dataset has a story — I'm here to find it.
+---
 
-⭐ If you like my projects, consider following my GitHub journey!
+### `◈` **DocMind — PDF RAG Chatbot** · *[SHIPPED · LIVE]*
+
+> Multi-PDF conversational AI powered by **Gemini 2.5 Flash**, semantic search,
+> FAISS vector retrieval, persistent knowledge storage, source citations & RAG pipeline.
+
+| Feature | Detail |
+|---|---|
+| 📄 Multi-PDF Support | Upload & query across multiple documents |
+| 🔍 Semantic Search | Context-aware retrieval via embeddings |
+| ⚡ FAISS Vector DB | Fast nearest-neighbour search |
+| 📚 Source Citations | Answers trace back to exact pages |
+| 💾 Persistent Index | Knowledge survives across sessions |
+
+[![Launch DocMind](https://img.shields.io/badge/LIVE_APP-DocMind_Chatbot-A78BFA?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://swikarb69-pdf-chatbot.streamlit.app/)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+
+---
+
+### `◈` **House Price Predictor** · *[SHIPPED]*
+
+> California House Price Prediction using **Random Forest Regression** — achieved **R² ~0.77**.
+> Full pipeline: EDA → feature engineering → model training → evaluation.
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+
+---
+
+### `◈` **Sales Forecasting Pipeline** · *[SHIPPED]*
+
+> **XGBoost**-powered retail forecasting pipeline trained on **3M+ rows** of transaction data.
+> Handles seasonality, lag features, and rolling statistics at scale.
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+
+---
+
+### `◈` **California Housing Classification** · *[SHIPPED]*
+
+> Classification model predicting ocean proximity categories with **97.4% accuracy**.
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+
+---
+
+### `◈` **Netflix Data Analysis** · *[PORTFOLIO]*
+
+> Deep-dive **Exploratory Data Analysis** & visualization of Netflix's global content catalog.
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
+
+---
+
+## `✦ sudo fetch --github-metrics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swikarb69&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=818CF8&text_color=FFFFFF&bg_color=0D0D1A&ring_color=C084FC&include_all_commits=true&count_private=true&custom_title=SIGNAL+ACTIVITY" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swikarb69&theme=transparent&hide_border=true&ring=C084FC&fire=A78BFA&currStreakLabel=818CF8&sideLabels=A78BFA&background=0D0D1A&stroke=818CF8&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarb69&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=FFFFFF&bg_color=0D0D1A&langs_count=8&custom_title=LANGUAGE+MATRIX" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swikarb69&bg_color=0D0D1A&color=A78BFA&line=818CF8&point=C084FC&area=true&area_color=7C3AED&hide_border=true&custom_title=COMMIT+WAVEFORM" width="49%" />
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=swikarb69&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
+
+---
+
+## `✦ cat /goals/2025.md`
+
+```
+ ┌──────────────────────────────────────────────────────────────────┐
+ │  MISSION LOG // 2025                                            │
+ ├──────────────────────────────────────────────────────────────────┤
+ │                                                                  │
+ │  [✅]  Build 4+ real-world Data Science projects                 │
+ │  [✅]  Deploy ML applications to production                      │
+ │  [✅]  Master Deep Learning fundamentals                         │
+ │  [✅]  Build a full RAG application (DocMind ✦)                  │
+ │  [🔄]  Learn MLOps & model monitoring                            │
+ │  [🔄]  Build end-to-end AI systems                               │
+ │  [🔄]  Secure a Data Science internship                          │
+ │  [🔭]  Dive deeper into Deep Learning research                   │
+ │                                                                  │
+ └──────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
+
+---
+
+## `✦ tree ~/swikar --depth=2`
+
+```
+swikar-bhattarai/
+│
+├── 🤖  ai-projects/
+│   ├── docmind/              # PDF RAG Chatbot · Gemini · FAISS
+│   └── llm-pipelines/        # LLM agents · RAG · automation
+│
+├── 📊  data-science/
+│   ├── house-price-predictor/    # Random Forest · R² 0.77
+│   ├── sales-forecasting/        # XGBoost · 3M+ rows
+│   ├── housing-classification/   # 97.4% accuracy
+│   └── netflix-eda/              # Visualization · storytelling
+│
+├── 🧠  deep-learning/
+│   └── neural-networks/      # TensorFlow · Keras · research
+│
+├── ⚙️  mlops/
+│   └── pipelines/            # End-to-end deployment · Flask
+│
+└── 📡  contact/
+    ├── personal   → bhattaraimail2me@gmail.com
+    ├── github     → github.com/swikarb69
+    ├── linkedin   → linkedin.com/in/swikar-bhattarai-11178b240
+    └── live-app   → swikarb69-pdf-chatbot.streamlit.app
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                  ✦  UPLINKS  //  ACTIVE  ✦                      ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   🌐  GitHub     →  github.com/swikarb69                         ║
+║   💼  LinkedIn   →  linkedin.com/in/swikar-bhattarai-11178b240   ║
+║   📧  Email      →  bhattaraimail2me@gmail.com                   ║
+║   🚀  Live App   →  swikarb69-pdf-chatbot.streamlit.app          ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swikar-bhattarai-11178b240)
+[![GitHub](https://img.shields.io/badge/-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swikarb69)
+[![Email](https://img.shields.io/badge/-Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhattaraimail2me@gmail.com)
+[![DocMind](https://img.shields.io/badge/-DocMind_App-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)](https://swikarb69-pdf-chatbot.streamlit.app/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer&reversal=true" width="100%"/>
+
+```
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+     SWIKAR BHATTARAI  ·  DATA SCIENTIST  ·  NEPAL  🇳🇵
+   "The universe speaks in patterns. I speak Python."
+✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦ ✦
+```
+
+![Made with](https://img.shields.io/badge/Made_with-🌌_&_Python-A78BFA?style=flat-square&labelColor=0D0D1A)
+![Powered by](https://img.shields.io/badge/Powered_by-Curiosity_&_Caffeine-818CF8?style=flat-square&labelColor=0D0D1A)
+
+</div>
+
+<!-- EOF: README.md // SWIKAR BHATTARAI // swikarb69 -->

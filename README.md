@@ -146,7 +146,7 @@ swikar = {
 | 💾 Persistent Index | Knowledge survives across sessions |
 
 [![Launch DocMind](https://img.shields.io/badge/LIVE_APP-DocMind_Chatbot-A78BFA?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://swikarb69-pdf-chatbot.streamlit.app/)
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/pdf-rag-chatbot)
 
 ---
 

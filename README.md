@@ -234,19 +234,20 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate Pac-Man graph
-        uses: rickstaa/action-create-pacman-graph@v1
+        uses: Platane/snk/svg-only@v3
         with:
-          background_color: "#0D0D1A"
-          bug_color: "#A78BFA"
-          color_fruit: "#C084FC"
-          color_dots: "#818CF8"
+          github_user_name: swikarb69
+          outputs: |
+            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark&color_dot=#818CF8&color_dots=#A78BFA,#818CF8,#C084FC,#7C3AED&color_empty=#0D0D1A
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist

@@ -176,6 +176,15 @@ swikar = {
 
 ---
 
+### `◈` **CineMatch AI — Movie Recommender** · *[SHIPPED]*
+
+> Intelligent movie recommendation engine — content-based filtering, similarity scoring,
+> and a clean **Streamlit** interface. Because your next favourite film is just one model away.
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-CineMatch_AI-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/CineMatch-AI)
+
+---
+
 ### `◈` **Netflix Data Analysis** · *[PORTFOLIO]*
 
 > Deep-dive **Exploratory Data Analysis** & visualization of Netflix's global content catalog.
@@ -234,20 +243,19 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v3
-
       - name: Generate Pac-Man graph
-        uses: Platane/snk/svg-only@v3
+        uses: rickstaa/action-create-pacman-graph@v1
         with:
-          github_user_name: swikarb69
-          outputs: |
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark&color_dot=#818CF8&color_dots=#A78BFA,#818CF8,#C084FC,#7C3AED&color_empty=#0D0D1A
+          background_color: "#0D0D1A"
+          bug_color: "#A78BFA"
+          color_fruit: "#C084FC"
+          color_dots: "#818CF8"
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
@@ -292,6 +300,7 @@ swikar-bhattarai/
 │   └── llm-pipelines/        # LLM agents · RAG · automation
 │
 ├── 📊  data-science/
+│   ├── cinematch-ai/             # Movie Recommender · Streamlit · ML
 │   ├── house-price-predictor/    # Random Forest · R² 0.77
 │   ├── sales-forecasting/        # XGBoost · 3M+ rows
 │   ├── housing-classification/   # 97.4% accuracy

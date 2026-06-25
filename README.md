@@ -176,6 +176,21 @@ swikar = {
 
 ---
 
+### `◈` **Customer Churn Prediction** · *[SHIPPED]*
+
+> Telecom churn classifier built around **maximizing recall** on the churn class —
+> because missing an at-risk customer costs far more than a false alarm.
+> Uses **SMOTE** for class imbalance, **GradientBoostingClassifier**, and threshold tuning via `predict_proba`.
+
+| Metric | Baseline | Tuned |
+|---|---|---|
+| Churn Recall | 0.45 | **0.62** |
+| Decision Threshold | 0.50 | ~0.35 |
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-Churn_Prediction-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+
+---
+
 ### `◈` **CineMatch AI — Movie Recommender** · *[SHIPPED]*
 
 > Intelligent movie recommendation engine — content-based filtering, similarity scoring,
@@ -301,6 +316,7 @@ swikar-bhattarai/
 │
 ├── 📊  data-science/
 │   ├── cinematch-ai/             # Movie Recommender · Streamlit · ML
+│   ├── customer-churn/           # GradientBoosting · SMOTE · Recall 0.62
 │   ├── house-price-predictor/    # Random Forest · R² 0.77
 │   ├── sales-forecasting/        # XGBoost · 3M+ rows
 │   ├── housing-classification/   # 97.4% accuracy

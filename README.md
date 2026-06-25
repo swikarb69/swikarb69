@@ -164,7 +164,7 @@ swikar = {
 > **XGBoost**-powered retail forecasting pipeline trained on **3M+ rows** of transaction data.
 > Handles seasonality, lag features, and rolling statistics at scale.
 
-[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/Sales-Forecasting)
 
 ---
 

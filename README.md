@@ -208,6 +208,56 @@ swikar = {
 
 ---
 
+## `✦ watch --contributions`
+
+<div align="center">
+
+[![Pac-Man contribution graph](https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-pacman-dark.svg)](https://github.com/swikarb69)
+
+</div>
+
+> ⚙️ **To activate the Pac-Man animation**, add this GitHub Actions workflow to your profile repo at `.github/workflows/pacman.yml`:
+
+```yaml
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate Pac-Man graph
+        uses: rickstaa/action-create-pacman-graph@v1
+        with:
+          background_color: "#0D0D1A"
+          bug_color: "#A78BFA"
+          color_fruit: "#C084FC"
+          color_dots: "#818CF8"
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%"/>
+
+---
+
 ## `✦ cat /goals/2025.md`
 
 ```

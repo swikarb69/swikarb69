@@ -132,6 +132,31 @@ swikar = {
 
 ---
 
+### `◈` **DataPilot AI — AI Data Analysis Platform** · *[SHIPPED · LIVE]*
+
+> End-to-end AI-powered data analysis platform that lets users upload CSV or Excel files,
+> automatically generate dataset summaries, detect data quality issues, perform exploratory
+> data analysis, produce AI-generated insights using Gemini, and download a professional PDF report.
+
+| Feature | Detail |
+|---|---|
+| 📁 Dataset Upload | CSV & Excel support |
+| 📊 Automated EDA | Statistical summaries & visualizations |
+| 🧹 Data Cleaning | Detect missing values & data quality issues |
+| 🤖 AI Insights | Gemini-powered dataset analysis |
+| 📄 PDF Reports | One-click downloadable report |
+| 🚀 Full Deployment | React (Vercel) + FastAPI (Render) |
+
+**Tech Stack**
+
+`React` • `Vite` • `FastAPI` • `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Plotly` • `Google Gemini API` • `ReportLab` • `Vercel` • `Render`
+
+[![Live Demo](https://img.shields.io/badge/LIVE_APP-DataPilot_AI-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://data-pilot-ai-silk.vercel.app)
+
+[![Backend API](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D0D1A)](https://datapilot-ai-backend-umul.onrender.com/docs)
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPO-GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/DataPilot-AI)
+
 ### `◈` **DocMind — PDF RAG Chatbot** · *[SHIPPED · LIVE]*
 
 > Multi-PDF conversational AI powered by **Gemini 2.5 Flash**, semantic search,

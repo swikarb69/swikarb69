@@ -318,8 +318,8 @@ jobs:
  │  [✅]  Deploy ML applications to production                      │
  │  [✅]  Master Deep Learning fundamentals                         │
  │  [✅]  Build a full RAG application (DocMind ✦)                 │
- │  [🔄]  Learn MLOps & model monitoring                           │
- │  [🔄]  Build end-to-end AI systems                              │
+ │  [✅]  Learn MLOps & model monitoring                           │
+ │  [✅]  Build end-to-end AI systems (DataPilot AI)               │
  │  [🔄]  Secure a Data Science internship                         │
  │  [🔭]  Dive deeper into Deep Learning research                  │
  │                                                                  │

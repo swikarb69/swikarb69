@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%E2%9C%A6+Turning+raw+data+into+real+intelligence;%E2%9C%A6+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+GenAI;%E2%9C%A6+RAG+Pipelines+%E2%80%A2+LLM+Apps+%E2%80%A2+MLOps;%E2%9C%A6+The+universe+speaks+in+patterns.+I+speak+Python.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=50&lines=%E2%9C%A6+Turning+raw+data+into+real+intelligence;%E2%9C%A6+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+GenAI;%E2%9C%A6+RAG+Pipelines+%E2%80%A2+LLM+Apps+%E2%80%A2+Full-Stack+AI;%E2%9C%A6+The+universe+speaks+in+patterns.+I+speak+Python.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,9 +26,9 @@
 swikar = {
     "name"       : "Swikar Bhattarai",
     "origin"     : "Nepal 🇳🇵",
-    "role"       : "Aspiring Data Scientist & AI Builder",
-    "focus"      : ["Deep Learning", "Generative AI", "RAG", "MLOps"],
-    "currently"  : "Building end-to-end AI systems & chasing internships",
+    "role"       : "Data Scientist & Full-Stack AI Builder",
+    "focus"      : ["Deep Learning", "Generative AI", "RAG", "Full-Stack ML Apps"],
+    "currently"  : "Shipping production AI systems & chasing internships in Germany 🇩🇪",
     "superpower" : "Finding signal in the noise",
     "motto"      : "The universe speaks in patterns. I speak Python.",
 }
@@ -45,7 +45,7 @@ swikar = {
 **🧪 DATA SCIENCE**
 
 Pandas · NumPy<br/>
-Matplotlib · Seaborn<br/>
+Matplotlib · Seaborn · Plotly<br/>
 EDA · Feature Engineering<br/>
 Statistics · Visualization
 
@@ -74,12 +74,12 @@ Semantic Search
 <tr>
 <td align="center">
 
-**⚙️ MLOPS**
+**⚙️ FULL-STACK & MLOPS**
 
+React · FastAPI · Vite<br/>
 Model Deployment<br/>
-Flask · FastAPI<br/>
 End-to-End Pipelines<br/>
-Monitoring · Versioning
+Vercel · Render
 
 </td>
 <td align="center">
@@ -115,13 +115,14 @@ DSA · Problem Solving
 **⟦ LANGUAGES ⟧**
 
 ![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-818CF8?style=for-the-badge&logo=javascript&logoColor=white)
 
 **⟦ DATA SCIENCE ⟧**
 
 ![Pandas](https://img.shields.io/badge/Pandas-818CF8?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-C084FC?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-A78BFA?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-A78BFA?style=for-the-badge&logo=plotly&logoColor=white)
 
 **⟦ MACHINE LEARNING ⟧**
 
@@ -136,8 +137,15 @@ DSA · Problem Solving
 ![FAISS](https://img.shields.io/badge/FAISS-C084FC?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipeline-7C3AED?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-A78BFA?style=for-the-badge&logo=chainlink&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-818CF8?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-C084FC?style=for-the-badge&logo=flask&logoColor=white)
+
+**⟦ FULL-STACK ⟧**
+
+![React](https://img.shields.io/badge/React-818CF8?style=for-the-badge&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-C084FC?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-A78BFA?style=for-the-badge&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-818CF8?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-C084FC?style=for-the-badge&logo=render&logoColor=white)
 
 **⟦ TOOLS ⟧**
 
@@ -155,25 +163,26 @@ DSA · Problem Solving
 
 ## <samp>✦ `ls ~/projects --highlight`</samp>
 
-### `◈` **DataPilot AI** — *AI Data Analysis Platform* &nbsp;`[ SHIPPED · LIVE ]`
+### `◈` **DataPilot AI** — *AI Data Analysis Platform* &nbsp;`[ FLAGSHIP · SHIPPED · LIVE ]`
 
-> End-to-end AI-powered platform — upload CSV/Excel, auto-generate summaries,
-> detect data quality issues, run EDA, produce Gemini-powered insights, and
-> download a professional PDF report.
+> Your AI-powered data analyst. Upload any CSV/Excel dataset and the platform
+> automatically cleans it, runs full exploratory analysis, generates
+> Gemini-powered narrative insights, and exports a polished PDF report —
+> a complete production analytics pipeline, not a notebook demo.
 
-<details>
+<details open>
 <summary><i>features &amp; stack</i></summary>
 
 | Feature | Detail |
 |---|---|
-| 📁 Dataset Upload | CSV & Excel support |
-| 📊 Automated EDA | Statistical summaries & visualizations |
-| 🧹 Data Cleaning | Missing values & quality detection |
-| 🤖 AI Insights | Gemini-powered analysis |
-| 📄 PDF Reports | One-click download |
-| 🚀 Full Deployment | React (Vercel) + FastAPI (Render) |
+| 📁 Smart Upload | CSV & Excel, auto dataset profiling |
+| 🧹 Data Cleaning | Missing value detection + imputation strategies |
+| 📊 Automated EDA | 6+ interactive Plotly charts, correlation heatmaps |
+| 🤖 AI Insights | Gemini-powered analysis with statistical fallback |
+| 📄 PDF Reports | One-click, fully designed, chart-embedded export |
+| 🚀 Full Deployment | React + Vite (Vercel) · FastAPI (Render) |
 
-`React` · `Vite` · `FastAPI` · `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Gemini API` · `ReportLab` · `Vercel` · `Render`
+`React` · `Vite` · `Tailwind` · `FastAPI` · `Python` · `Pandas` · `NumPy` · `Plotly` · `Matplotlib` · `Gemini API` · `ReportLab` · `Vercel` · `Render`
 
 </details>
 
@@ -237,7 +246,7 @@ Telecom churn — **maximizing recall** on the churn class. SMOTE + GradientBoos
 [![Repo](https://img.shields.io/badge/Repo-GitHub-C084FC?style=flat-square&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/Customer-Churn-Prediction)
 
 #### `◈` CineMatch AI &nbsp;`[ SHIPPED ]`
-Movie recommender — content-based filtering, similarity scoring, Streamlit UI.
+Movie recommender — popularity, content-based, collaborative filtering (SVD) & hybrid, Streamlit UI.
 
 [![Repo](https://img.shields.io/badge/Repo-GitHub-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/CineMatch-AI)
 
@@ -317,21 +326,21 @@ jobs:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24" width="100%"/>
 
-## <samp>✦ `cat /goals/2025.md`</samp>
+## <samp>✦ `cat /goals/2026.md`</samp>
 
 ```
  ┌──────────────────────────────────────────────────────────────────┐
- │   MISSION LOG  //  2025                                          │
+ │   MISSION LOG  //  2026                                          │
  ├──────────────────────────────────────────────────────────────────┤
  │                                                                  │
  │   [✅]  Build 4+ real-world Data Science projects                │
  │   [✅]  Deploy ML applications to production                     │
  │   [✅]  Master Deep Learning fundamentals                        │
  │   [✅]  Build a full RAG application (DocMind ✦)                │
- │   [✅]  Build end-to-end AI systems (DataPilot AI ✦)            │
+ │   [✅]  Ship a full-stack AI platform (DataPilot AI ✦)          │
  │   [✅]  Learn MLOps & model monitoring                          │
- │   [🔄]  Secure a Data Science internship                        │
- │   [🔭]  Dive deeper into Deep Learning research                 │
+ │   [🔄]  Secure a Data Science internship in Germany 🇩🇪          │
+ │   [🔭]  Dive deeper into Deep Learning & RL research             │
  │                                                                  │
  └──────────────────────────────────────────────────────────────────┘
 ```
@@ -343,12 +352,12 @@ jobs:
 swikar-bhattarai/
 │
 ├── 🤖  ai-projects/
-│   ├── datapilot-ai/         # AI Data Analysis · React + FastAPI
+│   ├── datapilot-ai/         # Full-stack AI analytics · React + FastAPI + Gemini
 │   ├── docmind/              # PDF RAG · Gemini · FAISS
 │   └── llm-pipelines/        # LLM agents · automation
 │
 ├── 📊  data-science/
-│   ├── cinematch-ai/             # Movie Recommender
+│   ├── cinematch-ai/             # Movie Recommender · SVD + Hybrid
 │   ├── customer-churn/           # GradientBoosting · SMOTE
 │   ├── house-price-predictor/    # Random Forest · R² 0.77
 │   ├── sales-forecasting/        # XGBoost · 3M+ rows
@@ -356,7 +365,8 @@ swikar-bhattarai/
 │   └── netflix-eda/              # Visualization
 │
 ├── 🧠  deep-learning/
-│   └── neural-networks/      # TensorFlow · Keras
+│   ├── neural-networks/      # TensorFlow · Keras
+│   └── reinforcement-learning/   # DQN · LunarLander-v3
 │
 └── ⚙️  mlops/
     └── pipelines/            # End-to-end deployment
@@ -373,6 +383,7 @@ swikar-bhattarai/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D1A)](https://www.linkedin.com/in/swikar-bhattarai-11178b240)
 [![GitHub](https://img.shields.io/badge/GitHub-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
 [![Email](https://img.shields.io/badge/Email-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)](mailto:bhattaraimail2me@gmail.com)
+[![DataPilot](https://img.shields.io/badge/DataPilot_AI-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://data-pilot-ai-silk.vercel.app)
 [![DocMind](https://img.shields.io/badge/DocMind-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://swikarb69-pdf-chatbot.streamlit.app/)
 
 <br/>

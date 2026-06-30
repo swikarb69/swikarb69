@@ -38,7 +38,7 @@
  swikar@neural-net  ~                                                   v.2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
- ▸  Nepal  ──→  Germany             ▸  Data Science · Full-Stack AI
+ ▸  Nepal  ──→  India    ──→   Germany         ▸  Data Science · Full-Stack AI
  ▸  Σ-9   //   neural cartographer  ▸  Open to roles · 2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

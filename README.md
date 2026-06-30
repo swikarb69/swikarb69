@@ -1,75 +1,109 @@
 <!--
-░██████╗░██╗░░░░░██╗████████╗░█████╗░██╗░░██╗  ░░░░░░  ░██████╗░██╗░░░██╗██╗██╗░░██╗░█████╗░██████╗░
-██╔════╝░██║░░░░░██║╚══██╔══╝██╔══██╗██║░░██║  ░░░░░░  ██╔════╝░██║░░░██║██║██║░██╔╝██╔══██╗██╔══██╗
-██║░░██╗░██║░░░░░██║░░░██║░░░██║░░╚═╝███████║  █████╗  ╚█████╗░░╚██╗░██╔╝██║█████═╝░███████║██████╔╝
-██║░░╚██╗██║░░░░░██║░░░██║░░░██║░░██╗██╔══██║  ╚════╝  ░╚═══██╗░░╚████╔╝░██║██╔═██╗░██╔══██║██╔══██╗
-╚██████╔╝███████╗██║░░░██║░░░╚█████╔╝██║░░██║  ░░░░░░  ██████╔╝░░░╚██╔╝░░██║██║░╚██╗██║░░██║██║░░██║
-░╚═════╝░╚══════╝╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝  ░░░░░░  ╚═════╝░░░░░╚═╝░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
+  ░██████╗░██╗░░░░░██╗████████╗░█████╗░██╗░░██╗   ░░░░░░  ░██████╗░██╗░░░██╗██╗██╗░░██╗░█████╗░██████╗░
+  ██╔════╝░██║░░░░░██║╚══██╔══╝██╔══██╗██║░░██║   ░░░░░░  ██╔════╝░██║░░░██║██║██║░██╔╝██╔══██╗██╔══██╗
+  ██║░░██╗░██║░░░░░██║░░░██║░░░██║░░╚═╝███████║   █████╗  ╚█████╗░░╚██╗░██╔╝██║█████═╝░███████║██████╔╝
+  ██║░░╚██╗██║░░░░░██║░░░██║░░░██║░░██╗██╔══██║   ╚════╝  ░╚═══██╗░░╚████╔╝░██║██╔═██╗░██╔══██║██╔══██╗
+  ╚██████╔╝███████╗██║░░░██║░░░╚█████╔╝██║░░██║   ░░░░░░  ██████╔╝░░░╚██╔╝░░██║██║░╚██╗██║░░██║██║░░██║
+  ░╚═════╝░╚══════╝╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝   ░░░░░░  ╚═════╝░░░░░╚═╝░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
+                                  // SYSTEM BREACH IMMINENT //
 -->
+
+<a name="readme-top"></a>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 <a href="https://github.com/swikarb69">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,50:1E1B4B,100:7C3AED&height=240&section=header&text=SWIKAR%20BHATTARAI&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=%E2%9A%A1%20DATA%20%E2%80%A2%20DEEP%20LEARNING%20%E2%80%A2%20GENAI%20%E2%80%A2%20FULL-STACK%20AI%20%E2%9A%A1&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=20,12,6,2,0&height=260&section=header&text=SWIKAR%20BHATTARAI&fontColor=ffffff&fontSize=72&fontAlignY=42&desc=%E2%98%A0%20D%20A%20N%20G%20E%20R%20O%20U%20S%20%20%C2%B7%20%20D%20A%20T%20A%20%20%C2%B7%20%20D%20E%20E%20P%20%20L%20E%20A%20R%20N%20I%20N%20G%20%20%C2%B7%20%20G%20E%20N%20A%20I%20%20%E2%98%A0&descSize=15&descAlignY=64&animation=scaleIn" width="100%" />
 </a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&multiline=false&width=900&height=60&lines=%E2%9A%A1+SYSTEM+ONLINE+%E2%80%94+swikar.exe+initialized;%E2%9C%A6+Turning+raw+data+into+real+intelligence;%E2%9C%A6+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+GenAI;%E2%9C%A6+RAG+Pipelines+%E2%80%A2+LLM+Apps+%E2%80%A2+Full-Stack+AI;%E2%98%A0+The+universe+speaks+in+patterns.+I+speak+Python.)](https://git.io/typing-svg)
+<!-- glitch / typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=550&color=A78BFA&center=true&vCenter=true&multiline=false&width=940&height=64&lines=%E2%98%A0+%2F%2F+BOOTING+swikar.exe+...+ACCESS+GRANTED;%E2%9A%A1+I+don%27t+write+code.+I+summon+it.;%E2%98%A0+Training+models+at+3AM+on+pure+caffeine;%E2%9A%A1+Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+GenAI;%E2%98%A0+RAG+Pipelines+%E2%80%A2+LLM+Agents+%E2%80%A2+Production+AI;%E2%9A%A1+The+universe+speaks+in+patterns.+I+speak+Python.;%E2%98%A0+%2F%2F+CAUTION%3A+THIS+README+BITES.)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- DANGER BAR -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&duration=1&pause=99999&color=EF4444&center=true&vCenter=true&width=940&height=34&lines=%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0+THREAT+LEVEL%3A+%E2%9A%A0+MAXIMUM+%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D1A)](https://www.linkedin.com/in/swikar-bhattarai-11178b240)
 [![GitHub](https://img.shields.io/badge/GITHUB-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69)
 [![Email](https://img.shields.io/badge/EMAIL-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D1A)](mailto:bhattaraimail2me@gmail.com)
-[![DataPilot](https://img.shields.io/badge/LIVE-DATAPILOT_AI-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://data-pilot-ai-silk.vercel.app)
-[![DocMind](https://img.shields.io/badge/LIVE-DOCMIND-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://swikarb69-pdf-chatbot.streamlit.app/)
+[![DataPilot](https://img.shields.io/badge/▶_LIVE-DATAPILOT_AI-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0D1A)](https://data-pilot-ai-silk.vercel.app)
+[![DocMind](https://img.shields.io/badge/▶_LIVE-DOCMIND-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://swikarb69-pdf-chatbot.streamlit.app/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=swikarb69&style=for-the-badge&color=A78BFA&label=NEURAL+PINGS)
-![Followers](https://img.shields.io/github/followers/swikarb69?style=for-the-badge&color=818CF8&labelColor=0D0D1A&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/swikarb69?style=for-the-badge&color=C084FC&labelColor=0D0D1A&label=STARS)
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_INTERNSHIPS-22C55E?style=for-the-badge&labelColor=0D0D1A)
+![Profile Views](https://komarev.com/ghpvc/?username=swikarb69&style=for-the-badge&color=EF4444&label=☠+INTRUSIONS+DETECTED)
+![Followers](https://img.shields.io/github/followers/swikarb69?style=for-the-badge&color=818CF8&labelColor=0D0D1A&label=ACCOMPLICES)
+![Stars](https://img.shields.io/github/stars/swikarb69?style=for-the-badge&color=C084FC&labelColor=0D0D1A&label=★+SUPERNOVAS)
+![Status](https://img.shields.io/badge/STATUS-🟢_ARMED_%26_AVAILABLE_FOR_INTERNSHIPS-22C55E?style=for-the-badge&labelColor=0D0D1A)
+![Caffeine](https://img.shields.io/badge/CAFFEINE-CRITICAL_OVERFLOW-EF4444?style=for-the-badge&labelColor=0D0D1A)
+![Sleep](https://img.shields.io/badge/SLEEP-404_NOT_FOUND-A78BFA?style=for-the-badge&labelColor=0D0D1A)
 
 </div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  BOOT  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
 ```diff
-! ─────────────────────────────────────────────────────────────────────────────── !
-@ >  ACCESS GRANTED  ::  ENTERING NEURAL NETWORK  ::  CLEARANCE LEVEL  //  Σ-9   @
-! ─────────────────────────────────────────────────────────────────────────────── !
+! ════════════════════════════════════════════════════════════════════════════ !
+@ >  [ 0.001s ]  POST  ::  CPU OK  ::  RAM OK  ::  GPU: RTX-IMAGINARY-9090     @
+@ >  [ 0.124s ]  loading neurons . . . . . . . . . . . . . . . . . . [  OK  ]  @
+@ >  [ 0.341s ]  mounting /dev/intelligence  . . . . . . . . . . .  [  OK  ]  @
+@ >  [ 0.872s ]  injecting caffeine into bloodstream  . . . . . . .  [  OK  ]  @
+@ >  [ 1.337s ]  decrypting reality.tar.gz  . . . . . . . . . . . .  [  OK  ]  @
+- ! WARNING:  Subject exhibits dangerous levels of curiosity.  Containment lost.
++ > ACCESS GRANTED  ::  ENTERING NEURAL NETWORK  ::  CLEARANCE  //  Σ-9        +
+! ════════════════════════════════════════════════════════════════════════════ !
 ```
 
 </div>
 
 ---
 
-## `╳` &nbsp;&nbsp;`whoami` &nbsp;&nbsp;`╳`
+## `☠` &nbsp;&nbsp;`whoami --verbose --no-filter` &nbsp;&nbsp;`☠`
 
 ```python
-# >>> import swikar
-# >>> swikar.identify()
+#  >>> import swikar
+#  >>> swikar.identify(safe_mode=False)
+#  [!] safe_mode disabled. proceed at your own risk.
 
 swikar = {
-    "name"       : "Swikar Bhattarai",
-    "origin"     : "Nepal 🇳🇵  →  Germany 🇩🇪 (incoming)",
-    "role"       : "Data Scientist · Full-Stack AI Engineer · ML Hacker",
-    "focus"      : ["Deep Learning", "Generative AI", "RAG", "Production ML"],
-    "currently"  : "Shipping production AI systems & chasing internships",
-    "weapons"    : ["Python", "PyTorch-mindset", "FastAPI", "React", "Gemini"],
-    "superpower" : "Finding signal in the noise",
-    "motto"      : "The universe speaks in patterns. I speak Python.",
-    "status"     : "⚡ ONLINE  ·  BUILDING  ·  DANGEROUS",
+    "name"        : "Swikar Bhattarai",
+    "alias"       : ["swikarb69", "the.guy.who.ships.at.3am", "Σ-9"],
+    "origin"      : "Nepal 🇳🇵  →  Germany 🇩🇪 (incoming, fully armed)",
+    "role"        : "Data Scientist · Full-Stack AI Engineer · Model Whisperer",
+    "focus"       : ["Deep Learning", "Generative AI", "RAG", "Production ML"],
+    "currently"   : "Building things that probably shouldn't exist yet",
+    "weapons"     : ["Python", "PyTorch", "FastAPI", "React", "Gemini", "FAISS"],
+    "superpower"  : "Finding signal in pure, weapons-grade noise",
+    "kryptonite"  : "Bad data · Loose semicolons · Untested edge cases",
+    "side_effect" : "May ship features faster than you can review them",
+    "motto"       : "The universe speaks in patterns.  I speak Python.",
+    "status"      : "⚡ ONLINE  ·  ARMED  ·  DANGEROUS  ·  HIRING-READY",
 }
 
-# >>> exit()  # Good luck.
+#  >>> swikar.deploy()
+#  [ ✓ ] subject deployed.  good luck.
 ```
 
 ---
 
-## `╳` &nbsp;&nbsp;`ls /abilities --tree` &nbsp;&nbsp;`╳`
+<div align="center">
+
+```diff
+@ ─────────  WEAPONS LOCKER UNLOCKED  //  ARSENAL ENUMERATING . . .  ─────────  @
+```
+
+</div>
+
+## `☠` &nbsp;&nbsp;`ls /arsenal --tree --danger` &nbsp;&nbsp;`☠`
 
 <table align="center">
 <tr>
@@ -133,7 +167,7 @@ DSA · Problem Solving
 </table>
 
 <details>
-<summary><b>✦ <code>cat /stack/installed.log</code> — full tech arsenal</b></summary>
+<summary><b>✦ <code>cat /stack/installed.log</code> — full tech arsenal (CLASSIFIED)</b></summary>
 
 <br/>
 
@@ -184,17 +218,41 @@ DSA · Problem Solving
 
 ---
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  THREAT METER  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## `☠` &nbsp;&nbsp;`./scan --skill-threat-matrix` &nbsp;&nbsp;`☠`
+
+```ansi
+ ┌──────────────────────────────────────────────────────────────────────────┐
+ │  SKILL                THREAT METER                              LEVEL    │
+ ├──────────────────────────────────────────────────────────────────────────┤
+ │  Python           ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   ███████████████████   LETHAL    │
+ │  Pandas / NumPy   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░   ██████████████████░   ARMED     │
+ │  ML / Sklearn     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░   █████████████████░░   ARMED     │
+ │  Deep Learning    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░   ████████████████░░░   LOADED    │
+ │  GenAI / LLMs     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░   ██████████████████░   ARMED     │
+ │  RAG / Vector DB  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░   █████████████████░░   ARMED     │
+ │  FastAPI          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░   ██████████████████░   ARMED     │
+ │  React / Vite     ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░   ███████████████░░░░   LOADED    │
+ │  MLOps / Deploy   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░   ██████████████░░░░░   LOADED    │
+ │  Sleep Schedule   ▰░░░░░░░░░░░░░░░░░░░   █░░░░░░░░░░░░░░░░░░   DECEASED  │
+ └──────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
 
 ```diff
-@ ─────────  ARSENAL DEPLOYED  //  LOADING PROJECT VAULT . . .  ─────────  @
+@ ─────  ARSENAL DEPLOYED  //  UNLOCKING PROJECT VAULT . . .  3 . . 2 . . 1  ─────  @
+- ! WARNING:  projects ahead are live, deployed, and resistant to rollback. !
 ```
 
 </div>
 
-## `╳` &nbsp;&nbsp;`ls ~/projects --highlight` &nbsp;&nbsp;`╳`
+## `☠` &nbsp;&nbsp;`ls ~/projects --highlight --dangerous` &nbsp;&nbsp;`☠`
 
-### `◈` **DataPilot AI** — *AI Data Analysis Platform*  &nbsp;`[ ★ FLAGSHIP · SHIPPED · LIVE ]`
+### `◈` **DataPilot AI** — *AI Data Analysis Platform*  &nbsp;`[ ★ FLAGSHIP · SHIPPED · LIVE · ARMED ]`
 
 > Your AI-powered data analyst. Upload any CSV/Excel dataset and the platform
 > automatically cleans it, runs full exploratory analysis, generates
@@ -223,7 +281,7 @@ DSA · Problem Solving
 
 ---
 
-### `◈` **DocMind** — *PDF RAG Chatbot*  &nbsp;`[ ★ SHIPPED · LIVE ]`
+### `◈` **DocMind** — *PDF RAG Chatbot*  &nbsp;`[ ★ SHIPPED · LIVE · LOADED ]`
 
 > Multi-PDF conversational AI powered by **Gemini 2.5 Flash**, semantic search,
 > FAISS vector retrieval, persistent knowledge storage & source citations.
@@ -285,7 +343,7 @@ Deep-dive EDA & visualization of Netflix's global catalog.
 
 ---
 
-## `╳` &nbsp;&nbsp;`sudo fetch --github-metrics` &nbsp;&nbsp;`╳`
+## `☠` &nbsp;&nbsp;`sudo fetch --github-metrics --full-disclosure` &nbsp;&nbsp;`☠`
 
 <div align="center">
 
@@ -313,23 +371,34 @@ Deep-dive EDA & visualization of Netflix's global catalog.
 
 ---
 
-## `╳` &nbsp;&nbsp;`watch --contributions` &nbsp;&nbsp;`╳`
+## `☠` &nbsp;&nbsp;`watch --contributions --snake --pacman` &nbsp;&nbsp;`☠`
 
 <div align="center">
 
+<!-- SNAKE eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake devouring my contributions" src="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake.svg" width="98%" />
+</picture>
+
+<sub>🐍 The snake is loose. Feeding it commits. It will not stop.</sub>
+
+<br/><br/>
+
 [![Pac-Man devouring the grid](https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-pacman-dark.svg)](https://github.com/swikarb69)
 
-<sub>▸ Pac-Man is hungry. Feeding him your commits.</sub>
+<sub>👾 Pac-Man wants seconds. Don't disappoint him.</sub>
 
 </div>
 
 <details>
-<summary><b>⚙️ Activate the Pac-Man animation — workflow setup</b></summary>
+<summary><b>⚙️ Activate the Snake + Pac-Man animations — workflow setup</b></summary>
 
-Add this to `.github/workflows/pacman.yml` in your profile repo:
+Add this to `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
-name: Generate Pac-Man Contribution Graph
+name: Generate Snake + Pac-Man
 
 on:
   schedule:
@@ -345,6 +414,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      # 🐍 SNAKE
+      - name: Generate Snake graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: swikarb69
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#1E1B4B,#4C1D95,#7C3AED,#A78BFA,#C084FC
+
+      # 👾 PAC-MAN
       - name: Generate Pac-Man graph
         uses: rickstaa/action-create-pacman-graph@v1
         with:
@@ -352,6 +431,8 @@ jobs:
           bug_color: "#A78BFA"
           color_fruit: "#C084FC"
           color_dots: "#818CF8"
+          output_dir: dist
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -365,11 +446,11 @@ jobs:
 
 ---
 
-## `╳` &nbsp;&nbsp;`cat /goals/2026.md` &nbsp;&nbsp;`╳`
+## `☠` &nbsp;&nbsp;`cat /goals/2026.md` &nbsp;&nbsp;`☠`
 
 ```ansi
  ╔══════════════════════════════════════════════════════════════════════╗
- ║   ⚡  MISSION LOG  //  2026   ::   CLASSIFIED  ::   AGENT: swikarb69 ║
+ ║   ☠   MISSION LOG  //  2026   ::   TOP SECRET   ::   AGENT: Σ-9      ║
  ╠══════════════════════════════════════════════════════════════════════╣
  ║                                                                      ║
  ║   [✅]  Build 4+ real-world Data Science projects                    ║
@@ -380,8 +461,11 @@ jobs:
  ║   [✅]  Learn MLOps & model monitoring                               ║
  ║   [🔄]  Secure a Data Science internship in Germany  🇩🇪              ║
  ║   [🔭]  Dive deeper into Deep Learning & RL research                 ║
+ ║   [⚡]  Train an agent that ships its own pull requests              ║
  ║   [☠ ]  Build something dangerous enough to matter                  ║
  ║                                                                      ║
+ ╠══════════════════════════════════════════════════════════════════════╣
+ ║   ⚠   IF FOUND, RETURN TO: bhattaraimail2me@gmail.com                ║
  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -416,7 +500,17 @@ swikar-bhattarai/
 
 ---
 
-## `╳` &nbsp;&nbsp;`uplinks --active` &nbsp;&nbsp;`╳`
+## `☠` &nbsp;&nbsp;`./fortune --random` &nbsp;&nbsp;`☠`
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## `☠` &nbsp;&nbsp;`uplinks --active` &nbsp;&nbsp;`☠`
 
 <div align="center">
 
@@ -429,7 +523,7 @@ swikar-bhattarai/
 <br/>
 
 <a href="https://github.com/swikarb69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=600&color=C084FC&center=true&vCenter=true&width=720&lines=%22The+universe+speaks+in+patterns.+I+speak+Python.%22;%E2%9A%A1+Built+with+caffeine%2C+curiosity+%26+a+little+bit+of+chaos.;%E2%98%A0+Thanks+for+scrolling.+Now+go+build+something+dangerous." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3600&pause=600&color=EF4444&center=true&vCenter=true&width=820&lines=%E2%98%A0+%2F%2F+TRANSMISSION+ENDING+...+SIGNAL+FADING;%22The+universe+speaks+in+patterns.+I+speak+Python.%22;%E2%9A%A1+Built+with+caffeine%2C+curiosity+%26+controlled+chaos.;%E2%98%A0+You+made+it+to+the+bottom.+Respect.;%E2%9A%A1+Now+go+build+something+dangerous." />
 </a>
 
 <br/><br/>
@@ -437,11 +531,18 @@ swikar-bhattarai/
 ![Made with](https://img.shields.io/badge/MADE_WITH-🌌_%26_PYTHON-A78BFA?style=for-the-badge&labelColor=0D0D1A)
 ![Powered by](https://img.shields.io/badge/POWERED_BY-CURIOSITY_%26_CAFFEINE-818CF8?style=for-the-badge&labelColor=0D0D1A)
 ![Warning](https://img.shields.io/badge/⚠_WARNING-MAY_SHIP_AT_3AM-C084FC?style=for-the-badge&labelColor=0D0D1A)
+![Hazard](https://img.shields.io/badge/☣_HAZARD-CONTAINS_FAST_LEARNERS-EF4444?style=for-the-badge&labelColor=0D0D1A)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1E1B4B,100:0D0D1A&height=120&section=footer&animation=fadeIn" width="100%" />
+<a href="#readme-top">
+  <img src="https://img.shields.io/badge/▲_RETURN_TO_TOP-0D0D1A?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6,2,0&height=140&section=footer&animation=fadeIn" width="100%" />
 
 </div>
 
-<!-- ☠  END OF TRANSMISSION  ::  CONNECTION CLOSED  ::  swikar.exe halted  ☠ -->
+<!-- ☠  END OF TRANSMISSION  ::  CONNECTION TERMINATED  ::  swikar.exe halted  ☠ -->

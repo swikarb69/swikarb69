@@ -315,7 +315,7 @@ Deep-dive EDA and visualization of Netflix's global catalog.
 
 <br/><br/>
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=swikarb69&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=swikarb69&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 

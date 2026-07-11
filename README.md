@@ -330,9 +330,9 @@ Deep-dive EDA and visualization of Netflix's global catalog.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake.svg" width="98%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/pacman-contribution-graph.svg" />
+  <img alt="pacman eating my contributions" src="https://raw.githubusercontent.com/swikarb69/swikarb69/output/pacman-contribution-graph.svg" width="98%" />
 </picture>
 
 <br/><br/>
@@ -361,27 +361,26 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate Snake graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: swikarb69
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#1E1B4B,#4C1D95,#7C3AED,#A78BFA,#C084FC
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23A78BFA
 
       - name: Generate Pac-Man graph
-        uses: rickstaa/action-create-pacman-graph@v1
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          background_color: "#0D0D1A"
-          bug_color: "#A78BFA"
-          color_fruit: "#C084FC"
-          color_dots: "#818CF8"
-          output_dir: dist
+          github_user_name: swikarb69
+          games: 'pacman'
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist

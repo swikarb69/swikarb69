@@ -303,7 +303,7 @@ Deep-dive EDA and visualization of Netflix's global catalog.
 
 <a href="https://github.com/swikarb69">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=swikarb69&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=swikarb69&theme=radical&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=818CF8&dates=E2E8F0" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=swikarb69&theme=radical&hide_border=true&background=0D0D1A&stroke=7C3AED&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=818CF8&dates=E2E8F0" />
 </a>
 
 <br/><br/>
@@ -330,19 +330,26 @@ Deep-dive EDA and visualization of Netflix's global catalog.
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-snake.svg" width="98%" />
+</picture>
+
+<br/><br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swikarb69/swikarb69/output/pacman-contribution-graph.svg" />
   <img alt="pacman eating my contributions" src="https://raw.githubusercontent.com/swikarb69/swikarb69/output/pacman-contribution-graph.svg" width="98%" />
 </picture>
 
-<br/><br/>
-
-[![pacman](https://raw.githubusercontent.com/swikarb69/swikarb69/output/github-contribution-grid-pacman-dark.svg)](https://github.com/swikarb69)
-
 </div>
 
 <details>
 <summary><b>◇ &nbsp; workflow setup — snake + pacman</b></summary>
+
+**Before anything else — enable private contributions:**
+Go to **GitHub → Settings → Public profile** and turn on **"Include private contributions on my profile."** Without this, the snake, pacman, and streak-stats widgets below can only see your *public* squares — which is why they were undercounting (103 vs. your real 311) and why pacman only looked partially filled.
 
 Add this to `.github/workflows/snake.yml` in your profile repo:
 
@@ -387,6 +394,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+After merging, trigger it manually once from the **Actions** tab (`workflow_dispatch`), then check the `output` branch to confirm these four files exist before trusting the README links:
+`github-contribution-grid-snake.svg`, `github-contribution-grid-snake-dark.svg`, `pacman-contribution-graph.svg`, `pacman-contribution-graph-dark.svg`.
 
 </details>
 

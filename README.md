@@ -290,9 +290,10 @@ DSA  ·  Problem Solving
 
 <br/>
 
-#### `◇` &nbsp; House Price Predictor &nbsp; `shipped`
+#### `◇` &nbsp; House Price Predictor &nbsp; `shipped · live`
 California housing prediction with **Random Forest** — R² 0.82, MAE $31.7K. Full pipeline: EDA → features → training → eval.
 
+[![Live](https://img.shields.io/badge/live-streamlit-A78BFA?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://house-price-predictor-swikarb69.streamlit.app)
 [![Repo](https://img.shields.io/badge/repo-github-C084FC?style=flat-square&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/house-price-predictor)
 
 #### `◇` &nbsp; Sales Forecasting Pipeline &nbsp; `shipped`

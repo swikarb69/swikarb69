@@ -72,13 +72,11 @@
 ⠀⠀⠀⠀⠌⠄⠡⢑⢐⢑⠌⠄⢕⢐⠔⢐⢐⡑⢌⠢⡑⡅⡑⢌⠂⠕⡌⡂⡊⢌⠪⡐⢌⠆⡅⢅⠂⢌⢂⢂⠪⡐⡨⠠⠡⢀⠀⠀⠀⠀   GitHub: ................... github.com/swikarb69
 ⠀⠀⠐⠈⠄⠡⡈⠢⢂⠅⡂⢅⢑⠔⠨⡐⢅⢊⠢⡑⢅⠪⡨⠢⡑⢅⠣⡑⢌⠢⡑⢌⠢⡑⡌⢆⢊⠐⠔⡡⢊⠔⢌⠌⢌⢐⠀⠀⠁⠀   
 ⠀⠀⠠⠁⠅⠨⢀⢑⠠⡁⡂⡂⠢⠨⡨⡊⡢⡡⠱⡘⢌⠪⡐⢅⢊⢢⢑⢑⠔⡑⢌⠢⡑⢌⢌⢊⢆⠅⠕⢌⢂⠅⢕⠨⢂⠂⠌⡀⠠⠀   GitHub Stats ────────────────
-⠀⠀⠌⠨⠀⠌⡐⡀⡂⢐⠀⡂⠅⠅⡢⢊⠔⢌⠕⡜⢌⠪⡐⢅⢊⢢⢡⢑⠌⢆⢑⢌⢌⡂⡪⡐⢌⠪⡨⠐⠄⢕⢐⢁⠢⠡⡁⡂⠀⡀   Repos: .... <edit>  |  Stars: ..... <edit>
-⠀⠀⠌⠠⠁⡐⢐⠠⠐⢀⠂⡐⠨⢐⢐⢁⠪⡐⡕⢜⢔⢱⠡⡑⡌⣖⠕⢔⢑⠅⡕⡠⡑⡌⡂⡪⢐⠑⠌⠌⠌⡐⢐⢐⢈⠂⡂⢂⠀⠀   Commits: .. <edit>  |  Followers: . <edit>
+⠀⠀⠌⠨⠀⠌⡐⡀⡂⢐⠀⡂⠅⠅⡢⢊⠔⢌⠕⡜⢌⠪⡐⢅⢊⢢⢡⢑⠌⢆⢑⢌⢌⡂⡪⡐⢌⠪⡨⠐⠄⢕⢐⢁⠢⠡⡁⡂⠀⡀   Repos: .... 12  |  Stars: ..... 2
+⠀⠀⠌⠠⠁⡐⢐⠠⠐⢀⠂⡐⠨⢐⢐⢁⠪⡐⡕⢜⢔⢱⠡⡑⡌⣖⠕⢔⢑⠅⡕⡠⡑⡌⡂⡪⢐⠑⠌⠌⠌⡐⢐⢐⢈⠂⡂⢂⠀⠀   Commits: .. 99  |  Followers: . 5
 ⠀⠠⠁⠌⠠⠀⢂⠐⢈⠀⡂⠄⡁⡂⡂⡂⢅⠪⡊⡎⡢⡃⡪⢐⠌⡔⢅⠕⢌⠪⡰⢐⠔⠡⡊⠔⡐⠡⡡⠡⢁⠂⡂⢂⢂⠐⡐⢀⠀⠂   
    Shipped: DataPilot AI · DocMind · CineMatch AI
 ```
-
-> Generated from your own photo via a braille-art converter (2×4 dot Unicode blocks), same trick as `andrew6rant`/`fastfetch`-style profile READMEs. The `<edit>` stat placeholders are there because your live numbers (repos/stars/commits/followers) are already pulled dynamically elsewhere in this README via github-readme-stats — plug in current snapshot numbers here if you want this block to show fixed values, or leave them out since the cards below already cover it live.
 
 ---
 

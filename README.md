@@ -293,7 +293,7 @@ DSA  ·  Problem Solving
 <br/>
 
 #### `◇` &nbsp; House Price Predictor &nbsp; `shipped`
-California housing prediction with **Random Forest** — R² ~0.77. Full pipeline: EDA → features → training → eval.
+California housing prediction with **Random Forest** — R² 0.82, MAE $31.7K. Full pipeline: EDA → features → training → eval.
 
 [![Repo](https://img.shields.io/badge/repo-github-C084FC?style=flat-square&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/house-price-predictor)
 
@@ -471,7 +471,7 @@ swikar-bhattarai/
 ├── data-science/
 │   ├── cinematch-ai/             # movie recommender  ·  svd + hybrid
 │   ├── customer-churn/           # gradientboosting  ·  smote
-│   ├── house-price-predictor/    # random forest  ·  R² 0.77
+│   ├── house-price-predictor/    # random forest  ·  R² 0.82
 │   ├── sales-forecasting/        # xgboost  ·  3m+ rows
 │   ├── housing-classification/   # 97.4% accuracy
 │   └── netflix-eda/              # visualization

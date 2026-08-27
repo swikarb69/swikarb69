@@ -75,7 +75,7 @@
 ⠀⠀⠌⠨⠀⠌⡐⡀⡂⢐⠀⡂⠅⠅⡢⢊⠔⢌⠕⡜⢌⠪⡐⢅⢊⢢⢡⢑⠌⢆⢑⢌⢌⡂⡪⡐⢌⠪⡨⠐⠄⢕⢐⢁⠢⠡⡁⡂⠀⡀   Repos: .... 12  |  Stars: ..... 2
 ⠀⠀⠌⠠⠁⡐⢐⠠⠐⢀⠂⡐⠨⢐⢐⢁⠪⡐⡕⢜⢔⢱⠡⡑⡌⣖⠕⢔⢑⠅⡕⡠⡑⡌⡂⡪⢐⠑⠌⠌⠌⡐⢐⢐⢈⠂⡂⢂⠀⠀   Commits: .. 99  |  Followers: . 5
 ⠀⠠⠁⠌⠠⠀⢂⠐⢈⠀⡂⠄⡁⡂⡂⡂⢅⠪⡊⡎⡢⡃⡪⢐⠌⡔⢅⠕⢌⠪⡰⢐⠔⠡⡊⠔⡐⠡⡡⠡⢁⠂⡂⢂⢂⠐⡐⢀⠀⠂   
-   Shipped: DataPilot AI · DocMind · CineMatch AI
+   Shipped: DataPilot AI · DocMind · CineMatch AI · Call Break
 ```
 
 ---
@@ -285,6 +285,27 @@ DSA  ·  Problem Solving
 
 ---
 
+### `◇` &nbsp; Call Break Scorekeeper  &nbsp;&nbsp;`shipped · live`
+*digital score sheet for the card table*
+
+> A mobile-first Streamlit scorekeeper for the South Asian trick-taking card game Call Break. Supports 4-player (52 cards, 13 tricks, 5 rounds) and 5-player (50 cards — 2♥ & 2♦ removed, 10 tricks, 6 rounds) modes. Handles calls, tricks, scoring, round history, edit & undo, and persistence across sessions — no paper needed.
+
+| feature | detail |
+|---|---|
+| 4-player mode | 52 cards · 13 tricks/round · 5 rounds |
+| 5-player mode | 50 cards · 2♥ & 2♦ removed · 10 tricks/round · 6 rounds |
+| scoring engine | call + 0.1 per extra trick · Decimal precision |
+| full game flow | calls → tricks → review → save → undo/edit |
+| persistence | survives browser refresh via JSON storage |
+| mobile-first | large touch targets, horizontal scroll scoreboard |
+
+`Python`  ·  `Streamlit`  ·  `Game Logic`  ·  `State Machine`  ·  `JSON Persistence`
+
+[![Live](https://img.shields.io/badge/live-streamlit-A78BFA?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D0D1A)](https://call-break.streamlit.app)
+[![Repo](https://img.shields.io/badge/repo-github-818CF8?style=flat-square&logo=github&logoColor=white&labelColor=0D0D1A)](https://github.com/swikarb69/Call-Break)
+
+---
+
 <details>
 <summary><b>◇ &nbsp; more projects — house prices · sales forecasting · churn · cinematch · netflix eda</b></summary>
 
@@ -448,6 +469,7 @@ After merging, trigger it manually once from the **Actions** tab (`workflow_disp
 ║   [x]   ship a full rag application       ──  docmind                  ║
 ║   [x]   ship a full-stack ai platform     ──  datapilot                ║
 ║   [x]   learn mlops & model monitoring                                 ║
+║   [x]   ship a mobile-friendly streamlit app  ──  call break           ║
 ║   [ ]   secure a data science internship in germany                    ║
 ║   [ ]   go deeper into deep learning & rl research                     ║
 ║   [ ]   train an agent that ships its own pull requests                ║
@@ -478,6 +500,9 @@ swikar-bhattarai/
 ├── deep-learning/
 │   ├── neural-networks/          # tensorflow  ·  keras
 │   └── reinforcement-learning/   # dqn  ·  lunarlander-v3
+│
+├── apps/
+│   └── call-break/               # streamlit scorekeeper  ·  4p & 5p modes  ·  state machine
 │
 └── mlops/
     └── pipelines/                # end-to-end deployment
